@@ -1,0 +1,9 @@
+C:\Users\0x1\source\repos\silentLeague\silentLeague\bin\Debug\silentLeague.exe.config
+C:\Users\0x1\source\repos\silentLeague\silentLeague\bin\Debug\silentLeague.exe
+C:\Users\0x1\source\repos\silentLeague\silentLeague\bin\Debug\silentLeague.pdb
+C:\Users\0x1\source\repos\silentLeague\silentLeague\obj\Debug\silentLeague.csproj.CoreCompileInputs.cache
+C:\Users\0x1\source\repos\silentLeague\silentLeague\obj\Debug\silentLeague.exe
+C:\Users\0x1\source\repos\silentLeague\silentLeague\obj\Debug\silentLeague.pdb
+C:\Users\0x1\source\repos\silentLeague\silentLeague\obj\Debug\silentLeague.Properties.Resources.resources
+C:\Users\0x1\source\repos\silentLeague\silentLeague\obj\Debug\silentLeague.csproj.GenerateResource.cache
+C:\Users\0x1\source\repos\silentLeague\silentLeague\obj\Debug\silentLeague.csproj.Fody.CopyLocal.cache
