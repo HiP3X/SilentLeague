@@ -5,12 +5,12 @@ Silent League is a simple, yet very usefull tool. As soon as you get inside cham
 
 ## How to use it?
 
-###### (The program is made with the "set-and-forget" mindset, meaning that you can run it one and forget about it. As long as its running it will work no matter how many times you restart the client)
+###### (The program is made with the "set-and-forget" mindset, meaning that you can run it once and forget about it. As long as it's running, it will work no matter how many times you restart the client)
 
 1. Download the program
 2. Run it
 3. Get inside champ select and click the nitification when it appears
-4. (Optional) You can close the program any at any time by right clicking on it and selecting exit (located in the system tray manu)
+4. (Optional) You can close the program at any time by right clicking on it and selecting exit (located in the system tray manu)
 
 Here is an example of how a notification looks like
 
