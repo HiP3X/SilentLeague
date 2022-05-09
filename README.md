@@ -1,4 +1,4 @@
-# Silet League
+# Silent League
 
 
 Silent League is a simple, yet very usefull tool. As soon as you get inside champion select, Silent League will send you a notification wich has an embedded link which contains an OPGG multi-search of all your teamates. Just click the nitification to open it in your default browser.
