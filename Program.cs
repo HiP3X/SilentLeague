@@ -1,28 +1,11 @@
 ﻿using System;
 using Microsoft.Toolkit.Uwp.Notifications;
-using LCUClient;
 using System.Net;
 using System.Threading;
 using System.Windows.Forms;
 
 namespace silentLeague
 {
-    static class GlobalListener
-    {
-        public static LCUListener listener = new LCUListener();
-    }
-    static class globalControl
-    {
-        public static bool control = true;
-        public static bool listnerControl = true;
-        public static string tempStorage = null;
-        public static string region;
-    }
-    static class team
-    {
-        public static string[] teamID = new string[5];
-        public static string[] teamName = new string[5];
-    }
     class Program
     {
         public class MyCustomApplicationContext : ApplicationContext

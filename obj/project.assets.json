@@ -6792,20 +6792,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\0x1\\.nuget\\packages\\": {}
+    "C:\\Users\\0x2\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\0x1\\source\\repos\\silentLeague\\silentLeague\\silentLeague.csproj",
+      "projectUniqueName": "C:\\Users\\0x2\\source\\PersonalProjects\\siletLeague\\SilentLeague\\silentLeague.csproj",
       "projectName": "silentLeague",
-      "projectPath": "C:\\Users\\0x1\\source\\repos\\silentLeague\\silentLeague\\silentLeague.csproj",
-      "packagesPath": "C:\\Users\\0x1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\0x1\\source\\repos\\silentLeague\\silentLeague\\obj\\",
+      "projectPath": "C:\\Users\\0x2\\source\\PersonalProjects\\siletLeague\\SilentLeague\\silentLeague.csproj",
+      "packagesPath": "C:\\Users\\0x2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\0x2\\source\\PersonalProjects\\siletLeague\\SilentLeague\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\0x1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\0x2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
