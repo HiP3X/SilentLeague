@@ -5,7 +5,7 @@ Silent League is a simple, yet very usefull tool. As soon as you get inside cham
 
 ## How to use it?
 
-###### (The program is made with the "set-and-forget" mindset, meaning that you can run it once and forget about it. As long as it's running, it will work no matter how many times you restart the client)
+###### (The program is made with the "set-and-forget" mindset, meaning that you can run it once (or set it as startup) and forget about it. As long as it's running, it will work no matter how many times you restart the client)
 
 1. Download the program
 2. Run it
