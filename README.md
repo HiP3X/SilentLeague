@@ -9,9 +9,9 @@ Silent League is a simple, yet very usefull tool. As soon as you get inside cham
 
 1. Download the program
 2. Run it
-3. Get inside champ select and click the nitification when it appears
-4. (Optional) You can close the program at any time by right clicking on it and selecting exit (located in the system tray manu)
+3. Get inside champ select and click the notification when it appeares
+4. (Optional) You can close the program at any time by right clicking on it and selecting exit (located in the system tray menu)
 
-Here is an example of how a notification looks like
+Here is an example of what a notification looks like
 
 ![Example of a notification](https://i.imgur.com/KCxZeQs.png)
